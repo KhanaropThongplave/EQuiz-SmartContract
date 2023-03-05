@@ -2,6 +2,10 @@
   "name": "hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
   }
 }
